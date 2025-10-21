@@ -1,4 +1,4 @@
-# Elies Auget
+# Elies Auguet
 ## Compétences techniques
 <table><tr>
 <td>
